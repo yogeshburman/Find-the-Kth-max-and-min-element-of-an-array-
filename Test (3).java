@@ -36,7 +36,7 @@ class Test {
       
       for(int i=0;i<arr.length;i++){
       
-      // Sorting elements in decreasing order for maximum element
+      // Sorting elements in increasing order for maximum element
       for(int j=i+1;j<arr.length;j++){
         
         if(arr[i]>arr[j]){
